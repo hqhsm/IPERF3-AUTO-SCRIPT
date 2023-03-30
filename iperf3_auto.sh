@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 测试服务器和端口
-SERVER="填写iperf3服务节点IP"
+SERVER="111.38.37.216"
 PORT="5201"
 
 # 循环测试次数
